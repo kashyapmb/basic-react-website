@@ -9,7 +9,7 @@ import Service from "./components/Service"
 import Navbar from "./components/Navbar"
 import Error from "./components/Error"
 import Footer from "./components/Footer"
-import "./index.css"
+import "./index.scss"
 
 const App = () => {
 	return (
